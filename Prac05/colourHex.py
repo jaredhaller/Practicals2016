@@ -13,4 +13,3 @@ while colour != "":
     else:
         print("Invalid colour name")
     colour = input("Enter colour name: ").lower()
-;

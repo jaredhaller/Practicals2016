@@ -17,4 +17,3 @@ while state != "":
     else:
         print("Invalid short colour")
     state = input("Enter short colour: ").upper()
-

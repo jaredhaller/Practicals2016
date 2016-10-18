@@ -1,0 +1,3 @@
+"""
+Do from scratch exercise
+"""
